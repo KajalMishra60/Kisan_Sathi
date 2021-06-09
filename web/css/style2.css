@@ -1,0 +1,30 @@
+
+.menu{padding-left: 0px;list-style: none;}
+
+.list{background:black;}
+.menu li{display:inline-block; color:white; padding:10px; }
+.menu li:hover{background:green; color:yellow;}
+.complete{background-color:#ececec;}
+.ul1 li{border-bottom:1px solid #000000; padding: 15px;}
+.ul1{list-style: none;padding: 0px;}
+.login-input{width:100%;margin:10px;padding:5px;margin: 10px;}
+.completely{border:1px solid grey;margin: 10px;padding: 0px;}
+.read{padding:10px;}
+.comment{color:blue;}
+.abc{background-color:#8FBC8F;;color:green;}
+button{margin:5px;}
+.synergize{border-bottom:1px solid grey;}
+.green{width: 100%; }
+.blue{width: 80%}
+.orange{width: 45%}
+.red{width: 30%}
+.Synergize-img{height: 100%;width:100%}
+.inner{padding:10px;}
+.form{padding:15px;}
+.last{padding:50px;}
+.bad{text-align: right;}
+.fluro{background-color: #17a2b8;padding:40px;text-decoration-color: white;margin:0px;width:100%;}
+.blue{background-color: blue;padding: 40px;text-decoration-color: white;margin:0px;width:100%;}
+.text{text-align:center;align-self: center;}
+.home{color:white !important;text-decoration-color:white;}
+.size{height:300px;width:300px;}
